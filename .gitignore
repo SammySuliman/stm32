@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+
+# CubeIDE / CubeMX
+*.ioc
+.settings/
+.project
+.cproject
+
+# IDE
+.vscode/
+*.swp
+*.swo
